@@ -1,0 +1,40 @@
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.exe.config
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.exe
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.pdb
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина_c_sharp.Form1.resources
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина_c_sharp.Properties.Resources.resources
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.exe
+C:\Users\Илья\source\repos\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.pdb
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.exe.config
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.exe
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.pdb
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина_c_sharp.Form1.resources
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина_c_sharp.Properties.Resources.resources
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csproj.GenerateResource.cache
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.exe
+C:\Users\maksi\Desktop\Ожогина c sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.pdb
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.exe.config
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.exe
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.pdb
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина_c_sharp.Form1.resources
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина_c_sharp.Properties.Resources.resources
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csproj.GenerateResource.cache
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.exe
+C:\Users\maksi\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.pdb
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.exe.config
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.exe
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\bin\Debug\Ожогина c sharp.pdb
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csprojAssemblyReference.cache
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина_c_sharp.Form1.resources
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина_c_sharp.Properties.Resources.resources
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.exe
+C:\Users\Yaroslav\Desktop\sharp\Ожогина c sharp\obj\Debug\Ожогина c sharp.pdb

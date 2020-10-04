@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ожогина c sharp", "Ожогина c sharp\Ожогина c sharp.csproj", "{CAC7A996-083F-4BF9-8DE0-65DB3CF29163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC7A996-083F-4BF9-8DE0-65DB3CF29163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC7A996-083F-4BF9-8DE0-65DB3CF29163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC7A996-083F-4BF9-8DE0-65DB3CF29163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC7A996-083F-4BF9-8DE0-65DB3CF29163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE0238DA-B3E4-425D-B75A-065BBB7AC5D4}
+	EndGlobalSection
+EndGlobal
